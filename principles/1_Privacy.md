@@ -23,7 +23,6 @@ Exposure Notification Server should have SSL certificate pinnings for secured co
 ## Privacy Identifiers
 No privacy identifiers, direct or indirect, should be used or saved in mobile apps, or EN Server. 
 
-## 
 
 ## Data Retention
 Delete history exposure keys after 14 days. After 14 days, the exposure keys can no longer be matched to a device.
