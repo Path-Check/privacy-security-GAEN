@@ -32,5 +32,5 @@ Delete history exposure keys after 14 days. After 14 days, the exposure keys can
 * No single person shall be able to both modify the source code and release the application to the public
 * All source code, models and technical documentation shall be publicly available, including all dependencies
 * Privacy shall be as inclusive as possible, and this includes making the application work just as well for people with different abilities, wherever technically possible, and based on W3C/WAI standards
-* Admin tool, used for configuration of backend-database, should not be deployed.
+* Admin tool, used for configuration of backend-database, should not be deployed in production.
 
