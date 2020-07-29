@@ -10,7 +10,7 @@ We believe that transparency in our software is an important part of ensuring se
 
 # Privacy & Security Principles
 
-Path Check's Privacy & Security Principles are listed here: 
+Path Check's Privacy & Security Principles are listed [here](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/1_Privacy.md)
 
 We are building Enhanced Privacy Threat Modeling with comprehensive coverage of Threat Categories and Attacker Capabilities for validation and testing. 
 
