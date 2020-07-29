@@ -29,4 +29,3 @@ All direct and indirect privacy identifiers used in Exposure Notification (EN) a
 * All source code, models and technical documentation shall be publicly available, including all dependencies
 * Privacy shall be as inclusive as possible, and this includes making the application work just as well for people with different abilities, wherever technically possible, and based on W3C/WAI standards
 
-
