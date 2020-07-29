@@ -18,3 +18,7 @@ We are building Enhanced Privacy Threat Modeling with comprehensive coverage of 
 * Submit a pull request
 * Request reviews on Slack channel #fn_privacy channel (message Ananya Gangavarapu or Adam Leon Smith if you need to be added to this channel)
 
+# Other sources of Information
+
+* https://github.com/PrivateKit/PrivacyDocuments provides technical research from the MIT team
+* https://github.com/ComputationalLaw/CV19-Data-Privacy-Principles/ provides input from the MIT Computational Law team
