@@ -18,7 +18,7 @@ In order to ensure that organizations adhere to contact tracing privacy principl
 Relevant stakeholders should be fully involved and consulted in the development and deployment of an app, including data protection authorities, the privacy and security community, human rights and civil liberties organizations, government agencies, technology community, and public health professionals, including epidemiologists.
 
 ## Exposure Notification Server
-Exposure Notification Server should have SSL certificate pinnings for secured communication between the server and EN apps.
+Exposure Notification Server should have SSL certificate pinnings for secured communication between the server and EN apps. No privacy identifiers, such as IP address, should not be used, either directly or indirectly, in any communication between the server and EN apps. 
 
 ## Privacy Identifiers
 No privacy identifiers, direct or indirect, should be used or saved in mobile apps, or EN Server. 
