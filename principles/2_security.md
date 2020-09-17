@@ -56,10 +56,10 @@ The following principles have been derived from [OWASP principles applicable to 
 * At startup, rooting should be checked for in order to protect user devices against being controlled by malicious software and their personal data accessed.  If rooting is found, the user should be notified of the specific risk.
 * Data should not be stored in files in plaintext at any point
 
-## Safe Places
+## Path Check
 
 ### General
-* Whilst Safe Places deployment security best practices are the responsibility of the healthcare authority, developers shall make every effort to encourage healthcare authorities to deploy in a secure way, through documentation and technical means
+* Whilst Path Check deployment security best practices are the responsibility of the healthcare authority, developers shall make every effort to encourage healthcare authorities to deploy in a secure way, through documentation and technical means
 * Access to sensitive data shall be logged and made visible to users
 * Security and data access logs shall be immutable
 * Aggregated data published from Safe Places shall not be accessible in plain text to a layman user or malicious actor
