@@ -1,6 +1,10 @@
-# PathCheck Town Hall Questions
+# PathCheck Town Hall 
 
 ## Town Hall 10/29/2020
+### Webinar Registration Link: 
+https://zoom.us/webinar/register/WN_RkUETe1tSkiU4-H0oOwIcA
+
+### Questions:
 * Can this be used to track my location?
      > 
 * Why does every state have it's own server vs having a central one - is this because of privacy or security? 
