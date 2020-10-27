@@ -6,16 +6,16 @@ https://zoom.us/webinar/register/WN_RkUETe1tSkiU4-H0oOwIcA
 
 ### Questions on the agenda (and _Who will be speaking to the topic during the Town Hall_):
 * Can this be used to track my location? 
-     > 
+     > (_Dave_)
 
 * Why does every state have it's own server vs having a central one - is this because of privacy or security? 
-     > 
+     > (_Art_)
 
 * How does this app's data compare to other's on my phone? 
      > (_Sam_)
      
 * The logistics of Path check app: how does my phone pick up if I have been exposed to someone with the virus? 
-     >  
+     >  (_Dave_)
 
 * What is being done to protect the security and privacy of users?
      >  (_Alex_)
