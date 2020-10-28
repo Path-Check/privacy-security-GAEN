@@ -15,25 +15,25 @@ https://zoom.us/webinar/register/WN_RkUETe1tSkiU4-H0oOwIcA
      > (_Sam_)
      
 * The logistics of Path check app: how does my phone pick up if I have been exposed to someone with the virus? 
-     >  (_Dave_)
+     > (_Dave_)
 
 * What is being done to protect the security and privacy of users?
-     >  (_Alex_)
+     > (_Alex_)
 
 * Do you believe contact tracing can slow the spread of COVID?
-     >  (_Sam_)
+     > (_Sam_)
 
 * Is there any other uses planned for the technology? 
-     >  (_Sam_)
+     > (_Sam_)
 
 * How reliable is the tracking technology?
-     >  
+     > (_John_)
 
 * What are the advantages or disadvantages of Bluetooth over GPS?
-     >  
+     > (_John_)
 
 * Are IP addresses stored by the notification/verification server for submissions?
-     >
+     > (_John_)
 
 * What data leaves my device?
-     >  
+     >  (_John_)
