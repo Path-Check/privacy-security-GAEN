@@ -10,7 +10,5 @@ The Cobalt.io penetration test suggested two security enhancements for PathCheck
 The full report is available within the Cobalt.io Penetration Testing folder.
 
 ## Veracode Binary Static Code Analysis and Software Composition Analysis
-
-# Assessment Summary
 Veracode discovered no vulnerabilities that impact the security of the gaen-mobile application. 
 Veracode found 0 vulnerabilities within gaen-mobile first-party application code. Veracode found vulnerable third-party packages used within gaen-mobile; however, Veracode confirmed that gaen-mobile does not use any of the insecure methods.
