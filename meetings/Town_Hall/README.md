@@ -2,7 +2,7 @@
 
 ## Town Hall 10/29/2020
 ### Recording:
-https://drive.google.com/file/d/1czSTMGrs3a6zpGbaCGrFr4wp202A3QR7/view?usp=sharing
+https://drive.google.com/file/d/1czSTMGrs3a6zpGbaCGrFr4wp202A3QR7/view
 
 ### Agenda
 * Overview
