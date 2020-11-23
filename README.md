@@ -8,6 +8,9 @@ We believe that transparency in our software is an important part of ensuring se
 * Enhanced Privacy Threat Model for Covid-19
 * Related documents, such as Data Privacy Impact Assessments
 
+[2020-11 Security Certification Letter](https://github.com/Path-Check/privacy-security-GAEN/blob/master/documents/certification_letters/Tuik-PathCheck-Certification_Letter-2020-11-23.pdf) 
+
+
 ## Privacy & Security Principles
 
 Path Check's Privacy & Security Principles are listed [here](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/1_Privacy.md)
