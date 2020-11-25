@@ -6,17 +6,17 @@
 
 # Table of Contents
 
-[PathCheck: Security Practices for Developers 1](#_Toc56688686)
+[PathCheck: Security Practices for Developers](#PathCheck:-Security-Practices-for-Developers)
 
-[Introduction 1](#_Toc56688687)
+[Introduction](#Introduction)
 
-[How to report a security issue 1](#_Toc56688688)
+[How to report a security issue](#How-to-report-a-security-issue)
 
-[Security in our development process 2](#_Toc56688689)
+[Security in our development process](#Security-in-our-development-process)
 
-[Security best practices 2](#_Toc56688690)
+[Security best practices](#Security-best-practices)
 
-[Other Coding Guidelines 3](#_Toc56688691)
+[Other Coding Guidelines](#Other-Coding-Guidelines)
 
 # Introduction
 
