@@ -18,6 +18,7 @@ Path Check's Privacy & Security Principles are listed [here](https://github.com/
 We are building Enhanced Privacy Threat Modeling with comprehensive coverage of Threat Categories and Attacker Capabilities for validation and testing. 
 
 ## How to contribute
+* Become familiar with [Developers Security Guidelines](./developers_security_guidlines/README.md)
 * Submit a pull request
 * Request reviews on Slack channel #fn_privacy channel (message Ananya Gangavarapu or Adam Leon Smith if you need to be added to this channel)
 
