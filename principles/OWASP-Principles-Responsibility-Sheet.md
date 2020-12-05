@@ -11,7 +11,6 @@
 | 1.9 Communications Architectural Requirements                       | ✔                     |                         |                      |
 | 1.10 Malicious Software Architectural Requirements                  | ✔                     | ✔                       |                      |
 | 1.11 Business Logic Architectural Requirements                      | ✔                     |                         |                      |
-| 1.12 Secure File Upload Architectural Requirements (REMOVE)         |                       |                         |                      |
 | 1.14 Configuration Architectural Requirements                       | ✔                     | ✔                       | ✔                    |
 | 2.10 Service Authentication Requirements                            | ✔                     |                         | ✔                    |
 | 3.1 Fundamental Session Management Requirements                     | ✔                     |                         |                      |
