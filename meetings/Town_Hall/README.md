@@ -4,6 +4,8 @@
 ### Recording:
 https://drive.google.com/file/d/1czSTMGrs3a6zpGbaCGrFr4wp202A3QR7/view
 
+### Transcript:
+[Link to Transcript](./2020_10_29_Transcript.md)
 ### Agenda
 * Overview
 * Introductions (Panelists)
