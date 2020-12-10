@@ -1,6 +1,6 @@
-# **TownHall\_PathCheck\_2020-10-29**
+# **PathCheck TownHall 2020-10-29**
 
-## The Following is a transcript from the Town Hall held on 10-29-2020. Timestamps are marked at every minute, as well where a change in speaker was detected. The transcription is not exact and only serves as a point of reference.
+## The Following is a transcript from the TownHall held on 10-29-2020. Timestamps are marked at every minute, as well where a change in speaker was detected. The transcription is not exact and only serves as a point of reference.
 
 [00:00:00] **Alex C:** [00:00:00] This is the town hall for security and privacy. We had a form set up where you could submit questions. So we have the developer, we have developers on here. We have our CTO on, we have a couple other people on the team who are just going to be answering these. If you have additional questions, which you want to ask during the webinar, there is a Q and a button at the bottom of the screen, or at the top, depending on how you have your screen arranged and you can submit questions.
 
