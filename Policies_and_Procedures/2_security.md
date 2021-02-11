@@ -1,6 +1,8 @@
+# NOTICE: This document is deprecated and only remains in the repository for documentation purposes. Please refer to the [OWASP ASVS](OWASP-ASVS.md) and [OWASP MASVS](OWASP-MASVS.md) for the most up-to-date reference.
+
 # Introduction
 
-This document makes heavy use of the OWASP (Open Web Application Security Project) project.  It is best read in conjuction with the OWASP deliverables that explain acronyms, reference test procedures, and provide a glossary.
+This document makes heavy use of the OWASP (Open Web Application Security Project).  It is best read in conjunction with the OWASP deliverables that explain acronyms, reference test procedures, and provide a glossary.
 
 ## Path Check 
 
@@ -68,6 +70,7 @@ The following principles have been derived from [OWASP principles applicable to 
 ### OWASP Principles
 Based on [this OWASP document](https://github.com/OWASP/ASVS/raw/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0-en.pdf) the correct principles have been included.  Specifically that includes Cookie-based Session Management and SOAP Web Service Verification Requirements (as we are using Tokens, and REST), Communications Security Requirements, Authentication Verification, SSRF Protection Requirements, Deployed Application Integrity Controls, Access Control, Build and Validate HTTP Request Header Requirements related requirements (as these are the responsiblity of the implementing Healthcare Authority).
 
+
 #### 1.1 Secure Software Development Lifecycle Requirements
 * Verify the use of threat modeling for every design change or sprint planning to identify threats, plan for countermeasures, facilitate appropriate risk responses, and guide security testing
 * Verify documentation and justification of all the application's trust boundaries, components, and significant data flows
@@ -87,7 +90,7 @@ necessary privileges needed
 * Verify that the chosen access control solution is flexible enough to meet the application's needs
 * Verify enforcement of the principle of least privilege in functions, data files, URLs, controllers, services, and other resources. This implies protection against spoofing and elevation of privilege
 * Verify the application uses a single and well-vetted access control mechanism for accessing protected data and resources. All requests must pass through this single mechanism to avoid copy and paste or insecure alternative paths.
-* Verify that attribute or feature-based access control is used whereby the code checks the user's authorization for a feature/data item rather than just their role.  Permissions should still be allocated using roles ![](../images/pass.oos?raw=true)
+* Verify that attribute or feature-based access control is used whereby the code checks the user's authorization for a feature/data item rather than just their role.  Permissions should still be allocated using roles
 
 #### 1.5 Input and Output Architectural Requirements
 * Verify that input and output requirements clearly define how to handle and process data based on type, content, and applicable laws, regulations, and other
@@ -136,7 +139,7 @@ applications, especially when they are performing sensitive or dangerous actions
 * Verify the application does not use unsupported, insecure, or deprecated clientside technologies such as NSAPI plugins, Flash, Shockwave, ActiveX, Silverlight, NACL, or client-side Java applets
 
 #### 2.10 Service Authentication Requirements
-* Verify that integration secrets do not rely on unchanging passwords, such as API keys or shared privileged accounts. [![PASS](../images/pass.png?raw=true)](../dynamic_testing/SPL_WebServicesTesting/SPLWebServices.md)
+* Verify that integration secrets do not rely on unchanging passwords, such as API keys or shared privileged accounts.
 * Verify that if passwords are required, the credentials are not a default account.  
 * Verify passwords, integrations with databases and third-party systems, seeds and internal secrets, and API keys are managed securely and not included in the source code or stored within source code repositories. Such storage SHOULD resist offline attacks. The use of a secure software key store (L1), hardware trusted platform module (TPM), or a hardware security module (L3) is recommended for password storage. 
 
