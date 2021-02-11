@@ -1,5 +1,3 @@
-![](RackMultipart20201125-4-cadnvf_html_5ebd433fc02f9ab9.png)
-
 # PathCheck: Security Practices for Developers
 
 19 November 2020
