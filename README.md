@@ -8,7 +8,7 @@ We believe that transparency in our software is an important part of ensuring se
 * Enhanced Privacy Threat Model for Covid-19
 * Related documents, such as Data Privacy Impact Assessments
 
-[2020-11 Security Certification Letter](Legal_and_Compliance/certification_letters/Tuik-PathCheck-Certification_Letter-2021-02-11.pdf) 
+[2020-11 Security Certification Letter](Legal_and_Compliance/Tuik-PathCheck-Certification_Letter-2021-02-11.pdf) 
 
 
 ## Privacy & Security Principles
