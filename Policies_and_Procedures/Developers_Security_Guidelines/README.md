@@ -60,7 +60,7 @@ All code contributors should be familiar with the OWASP Top 10, which is a stand
 
 To learn **more about security in web applications** read this article: [Top 10 Security from The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Top_10_2013-Table_of_Contents).
 
-The PathCheck Foundation&#39;s [OWASP Principles and Responsibilities Guide](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/OWASP-Principles-Responsibility-Sheet.md) shows which controls are the responsibility of PathCheck and its developers, which are the responsibility of Google and Apple (GAEN), and which are the responsibility of each HA/Jurisdiction.
+The PathCheck Foundation&#39;s [OWASP Principles and Responsibilities Guide](https://github.com/Path-Check/privacy-security-GAEN/blob/master/Policies_and_Procedures/OWASP-Principles-Responsibility-Sheet.md) shows which controls are the responsibility of PathCheck and its developers, which are the responsibility of Google and Apple (GAEN), and which are the responsibility of each HA/Jurisdiction.
 
 OWASP also publishes its [Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs) and other information from its [Mobile Security Project](https://owasp.org/www-project-mobile-security/).
 
