@@ -18,7 +18,7 @@
 
 # Introduction
 
-The [Privacy Principles](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/1_Privacy.md) page outlines the privacy intentions of the PathCheck Foundation&#39;s GAEN Exposure Notification Apps.
+The [Privacy Principles](../1_Privacy.md) page outlines the privacy intentions of the PathCheck Foundation&#39;s GAEN Exposure Notification Apps.
 
 The [Privacy &amp; Security Repo for GAEN - Exposure Notification Apps](https://github.com/Path-Check/privacy-security-GAEN) page provides information about how to contribute to the PathCheck Foundation&#39;s GAEN Exposure Notification Apps and provides links to other security related documentation.
 
@@ -60,11 +60,11 @@ All code contributors should be familiar with the OWASP Top 10, which is a stand
 
 To learn **more about security in web applications** read this article: [Top 10 Security from The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Top_10_2013-Table_of_Contents).
 
-The PathCheck Foundation&#39;s [OWASP Principles and Responsibilities Guide](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/OWASP-Principles-Responsibility-Sheet.md) shows which controls are the responsibility of PathCheck and its developers, which are the responsibility of Google and Apple (GAEN), and which are the responsibility of each HA/Jurisdiction.
+The PathCheck Foundation&#39;s [OWASP Principles and Responsibilities Guide](https://github.com/Path-Check/privacy-security-GAEN/blob/master/Policies_and_Procedures/OWASP-Principles-Responsibility-Sheet.md) shows which controls are the responsibility of PathCheck and its developers, which are the responsibility of Google and Apple (GAEN), and which are the responsibility of each HA/Jurisdiction.
 
 OWASP also publishes its [Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs) and other information from its [Mobile Security Project](https://owasp.org/www-project-mobile-security/).
 
-The document at [https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/2\_security.md](https://github.com/Path-Check/privacy-security-GAEN/blob/master/principles/2_security.md) provides a detailed list of principles substantially derived from OWASP materials.
+The document [here](../2_security.md) provides a detailed list of principles substantially derived from OWASP materials.
 
 # Other Coding Guidelines
 
