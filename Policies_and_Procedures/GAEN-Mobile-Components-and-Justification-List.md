@@ -43,11 +43,11 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
   * BugSnag - used for bug and error tracking within the GAEN mobile code and catching crashes and other hidden issues breaking the app
   * React Native Community:
 
-     * Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”.  ⚠️ This package is deprecated - should be removed with another localstorage library.
+     
 
     * DateTimePicker - for selecting various dates in the application
 
-    * MaskedView - ⚠️ Shows an opaque view that is hidden from the user but still rendered. 
+    
 
     * NetInfo - Used for managing components/code for when certain network events fire.
 
@@ -66,7 +66,7 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * i18Next - Used for Translations
 
-* NodeFetch - ⚠️ Core functionality for retrieving data. Remove and see if the app fails without - currently not being used on the development branch.
+
 
 * PropTypes - Core functionality for checking types of property variables
 
@@ -78,7 +78,7 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * React Native Flash Message - Functionality for toasts and other “in app” popup messaging
 
-* React Native Gesture Handling - ⚠️ May not be used - only used in a jest config. May be removed 
+ 
 
 * React Native Keyboard Aware Scroll - Used for auto scrolling input screens when the current input leaves the view
 
@@ -100,8 +100,15 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * Webview - Currently being used for Tableau analytics on some GAEN apps
 
-* Reanimated Bottom Sheet - ⚠️ Currently Unsure
 
-* Regression - ⚠️Currently Unsure
 
 * TS Data JSON - Used for deserializing JSON responses
+
+### Packages Under Review
+* Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”.  ⚠️ This package is deprecated - should be removed with another localstorage library.
+* MaskedView - ⚠️ Shows an opaque view that is hidden from the user but still rendered. 
+* NodeFetch - ⚠️ Core functionality for retrieving data. Remove and see if the app fails without.
+* React Native Gesture Handling - ⚠️ May not be used - only used in a jest config. May be removed.
+* Reanimated Bottom Sheet - ⚠️ Currently Under Review
+
+* Regression - ⚠️ Currently Under Review
