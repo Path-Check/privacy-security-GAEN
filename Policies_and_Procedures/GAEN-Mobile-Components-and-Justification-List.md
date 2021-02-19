@@ -105,10 +105,9 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 * TS Data JSON - Used for deserializing JSON responses
 
 ### Packages Under Review
-* Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”.  ⚠️ This package is deprecated - should be removed with another localstorage library.
+* Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”.  ⚠️ This package is deprecated - planning replacement with another localstorage library.
 * MaskedView - ⚠️ Shows an opaque view that is hidden from the user but still rendered. 
-* NodeFetch - ⚠️ Core functionality for retrieving data. Remove and see if the app fails without.
-* React Native Gesture Handling - ⚠️ May not be used - only used in a jest config. May be removed.
+* NodeFetch - ⚠️ Core functionality for retrieving data. Reviewing requirement.
+* React Native Gesture Handling - ⚠️ Only used in a jest config. Currently Reviewing.
 * Reanimated Bottom Sheet - ⚠️ Currently Under Review
-
 * Regression - ⚠️ Currently Under Review
