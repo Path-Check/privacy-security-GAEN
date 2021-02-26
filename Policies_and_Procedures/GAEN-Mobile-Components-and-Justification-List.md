@@ -1,5 +1,5 @@
 # Software Component Usage
-This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile/blob/develop/package.json) on the GAEN Mobile Github as of Feb 4, 2021.
+This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile/blob/develop/package.json) on the GAEN Mobile Github as of Feb 26, 2021.
 
 ```json
 "dependencies": {
@@ -60,7 +60,10 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
     * Native - Used for leveraging OS level  navigation between screens in the app.
 
     * Stack - Managing multiple activities going on within the app
-  * Array Flat Polyfill - Brought in to add “array flattening” functionality for Javascript
+    
+* Array Flat Polyfill - Brought in to add “array flattening” functionality for Javascript
+
+* Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”. This package is technically depreciated but it hasn’t been upgraded since the depreciation notice so it’s safe to keep it for now.
 
 * DayJS - Parsing and date manipulation
 
@@ -78,9 +81,11 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * React Native Flash Message - Functionality for toasts and other “in app” popup messaging
 
- 
+ * React Native Gesture Handling - needed for @react-navigation.
 
 * React Native Keyboard Aware Scroll - Used for auto scrolling input screens when the current input leaves the view
+
+* MaskedView - Shows an opaque view that is hidden from the user but still rendered. 
 
 * Matomo SDK - Used for Analytics
 
@@ -104,10 +109,8 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * TS Data JSON - Used for deserializing JSON responses
 
-### Packages Under Review
-* Async Storage - Key/Value storage system for React Native. Being used for app specific data. Stores data right in app “local storage”.  ⚠️ This package is deprecated - planning replacement with another localstorage library.
-* MaskedView - ⚠️ Shows an opaque view that is hidden from the user but still rendered. 
-* NodeFetch - ⚠️ Core functionality for retrieving data. Reviewing requirement.
-* React Native Gesture Handling - ⚠️ Only used in a jest config. Currently Reviewing.
-* Reanimated Bottom Sheet - ⚠️ Currently Under Review
-* Regression - ⚠️ Currently Under Review
+### Staged for Removal
+
+* NodeFetch
+* Reanimated Bottom Sheet
+* Regression
