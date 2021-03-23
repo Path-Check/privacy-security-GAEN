@@ -1,8 +1,8 @@
 # Software Component Usage
-This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile/blob/develop/package.json) on the GAEN Mobile Github as of Feb 26, 2021.
+This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile/blob/develop/package.json) on the GAEN Mobile Github as of March 23, 2021.
 
 ```json
-"dependencies": {
+ "dependencies": {
     "@bugsnag/react-native": "^7.3.4",
     "@react-native-community/async-storage": "^1.12.1",
     "@react-native-community/datetimepicker": "^3.0.8",
@@ -16,7 +16,6 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
     "array-flat-polyfill": "^1.0.1",
     "dayjs": "^1.8.24",
     "i18next": "^19.3.3",
-    "node-fetch": "^2.6.1",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-i18next": "^11.4.0",
@@ -34,8 +33,6 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
     "react-native-static-safe-area-insets": "^2.1.1",
     "react-native-svg": "^12.0.3",
     "react-native-webview": "^11.2.0",
-    "reanimated-bottom-sheet": "^1.0.0-alpha.19",
-    "regression": "^2.0.1",
     "ts.data.json": "^1.5.0"
   }
   ```
@@ -109,8 +106,3 @@ This is a review of the [package.json](https://github.com/Path-Check/gaen-mobile
 
 * TS Data JSON - Used for deserializing JSON responses
 
-### Staged for Removal
-
-* NodeFetch
-* Reanimated Bottom Sheet
-* Regression
